@@ -1,0 +1,6 @@
+[submodule "LoremServer"]
+	path = LoremServer
+	url = https://github.com/1506607292/LoremServer.git
+[submodule "LoremSurvey"]
+	path = LoremSurvey
+	url = https://github.com/BladeHiker/LoremSurvey.git
